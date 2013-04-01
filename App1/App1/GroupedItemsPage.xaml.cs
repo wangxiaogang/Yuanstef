@@ -20,6 +20,7 @@ namespace App1
 {
     /// <summary>
     /// 显示分组的项集合的页。
+    /// 闵寄娟 test
     /// </summary>
     public sealed partial class GroupedItemsPage : App1.Common.LayoutAwarePage
     {

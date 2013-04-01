@@ -21,6 +21,8 @@ using Windows.UI.Xaml.Navigation;
 namespace App1
 {
     /// <summary>
+    /// 
+    /// 小刚 xiaogang
     /// 提供特定于应用程序的行为，以补充默认的应用程序类。
     /// </summary>
     sealed partial class App : Application
