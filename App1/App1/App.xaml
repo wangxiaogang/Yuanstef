@@ -17,7 +17,7 @@
 
             <!--  应用程序特定的资源  -->
 
-            <x:String x:Key="AppName">狗蛋</x:String>
+            <x:String x:Key="AppName">狗蛋幸福快乐</x:String>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
